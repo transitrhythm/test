@@ -1,0 +1,3 @@
+package: transitrhythm.com/gtfs/realtime/test/test_packages
+import:
+- package: mymath
