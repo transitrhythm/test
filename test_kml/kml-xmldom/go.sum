@@ -1,0 +1,8 @@
+github.com/antchfx/xpath v0.0.0-20170515025933-1f3266e77307 h1:C735MoY/X+UOx6SECmHk5pVOj51h839Ph13pEoY8UmU=
+github.com/antchfx/xpath v0.0.0-20170515025933-1f3266e77307/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
+github.com/im7mortal/UTM v1.2.0 h1:+zEEbRNrhM8QUspF6G+iOgZ2L7wLXOppdv09FgDES/w=
+github.com/im7mortal/UTM v1.2.0/go.mod h1:2NjXqikKdBoolkoo3OEDLoxWW5thIIP4Wr76RBAtrYU=
+github.com/subchen/go-xmldom v1.1.2 h1:7evI2YqfYYOnuj+PBwyaOZZYjl3iWq35P6KfBUw9jeU=
+github.com/subchen/go-xmldom v1.1.2/go.mod h1:6Pg/HuX5/T4Jlj0IPJF1sRxKVoI/rrKP6LIMge9d5/8=
+github.com/wroge/wgs84 v0.3.2 h1:mTrq07O7TiugVEhHQghAWh2TZJVZhVNRssy7GvxeUtU=
+github.com/wroge/wgs84 v0.3.2/go.mod h1:uIuw/GXce3W7wvAgKzprd3gB9ECZ7vG/VGEsokxKOKE=
